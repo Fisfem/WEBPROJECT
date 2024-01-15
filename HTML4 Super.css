@@ -1,4 +1,55 @@
 *
 {
-  background-color: red;
+ 
+  color: white;
+ padding: 0px;
+ margin: 0px;
+
 }
+
+#Header_part
+{background-color: black;
+  padding-bottom: 80px;
+  margin-bottom: 50px;
+
+}
+
+#Header_Left
+{
+  float: left;
+  padding: 0px;
+  margin: 0px;
+}
+
+#Header_right
+{
+  float: right;
+  padding: 0px;
+  margin: 0px;
+  
+}
+
+.All_Body
+{
+  background-color: black;
+ 
+}
+
+#survey
+{
+ margin-left: 100px;
+}
+
+#former
+{
+  margin-bottom: 700px;
+  margin-left: 500px;
+}
+
+#namer
+{
+  width: 2500px;
+      background-color: white;
+      min-height: 35px;
+      border-radius: 100px;
+    }
